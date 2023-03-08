@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917143100487",
+    "project_id": "projemanag-e50e4",
+    "storage_bucket": "projemanag-e50e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917143100487:android:6070a3b9859c36eecba562",
+        "android_client_info": {
+          "package_name": "eu.tutorials.projemanag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917143100487-nh6v8p5ilbg0f89cg39e5n1eds86ber1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHzZPbXZcveTcaYF-FAnqOEhVn2yT1Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917143100487-nh6v8p5ilbg0f89cg39e5n1eds86ber1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
